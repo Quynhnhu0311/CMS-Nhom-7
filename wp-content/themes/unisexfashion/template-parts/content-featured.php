@@ -18,7 +18,7 @@
         <div class="product__item__text">
             <a href="<?php the_permalink(); ?>"></a>
             <h6><?php the_title(); ?></h6>
-            <a href="<?php echo esc_url( apply_filters( 'woocommerce_add_to_cart_form_action', $product->get_permalink() ) ); ?>" class="add-cart">+ Add To Cart</a>
+            <a href="?add-to-cart=<?php echo $product->get_id();?>" class="add-cart">+ Add To Cart</a>
             <div class="rating">
                 <i class="fa fa-star-o"></i>
                 <i class="fa fa-star-o"></i>

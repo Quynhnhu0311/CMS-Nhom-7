@@ -1,0 +1,14 @@
+2022-11-14T14:52:43+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php:97
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 97
+
+2022-11-14T14:53:10+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 110
+
+2022-11-14T14:56:37+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 115
+
+2022-11-14T14:56:37+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 115
+
