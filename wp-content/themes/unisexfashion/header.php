@@ -62,15 +62,18 @@
                         <div class="header__top__right">
                             <div class="header__top__links">
                                 <a href="<?php the_permalink(); ?>my-account ">Sign in</a>
-                                <a href="#">FAQs</a>
                             </div>
                             <div class="header__top__hover">
-                                <span>Usd <i class="arrow_carrot-down"></i></span>
+                                <?php do_action( 'woocommerce_before_account_navigation' ); ?>
+                                <span>Account <i class="arrow_carrot-down"></i></span>
                                 <ul>
-                                    <li>USD</li>
-                                    <li>EUR</li>
-                                    <li>USD</li>
+                                    <?php foreach ( wc_get_account_menu_items() as $endpoint => $label ) : ?>
+                                    <li class="<?php echo wc_get_account_menu_item_classes( $endpoint ); ?>">
+                                        <a href="<?php echo esc_url( wc_get_account_endpoint_url( $endpoint ) ); ?>"><?php echo esc_html( $label ); ?></a>
+                                    </li>
+                                    <?php endforeach; ?>
                                 </ul>
+                                <?php do_action( 'woocommerce_after_account_navigation' ); ?>
                             </div>
                         </div>
                     </div>
