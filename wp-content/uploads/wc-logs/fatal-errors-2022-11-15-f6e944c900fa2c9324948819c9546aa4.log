@@ -1,0 +1,108 @@
+2022-11-15T03:02:00+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content-shipping.php:36
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php(39): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content-shipping.php on line 36
+
+2022-11-15T03:02:00+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content-shipping.php:36
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php(39): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content-shipping.php on line 36
+
+2022-11-15T03:08:33+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\functions.php on line 33
+
+2022-11-15T03:08:33+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\functions.php on line 33
+
+2022-11-15T03:08:53+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content-shipping.php:36
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php(39): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content-shipping.php on line 36
+
+2022-11-15T03:10:47+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content-shipping.php:36
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php(39): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content-shipping.php on line 36
+
+2022-11-15T03:10:47+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content-shipping.php:36
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php(39): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content-shipping.php on line 36
+
+2022-11-15T03:19:00+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 135
+
+2022-11-15T03:19:00+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 135
+
+2022-11-15T03:19:24+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 39
+
+2022-11-15T03:19:25+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php:39
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 39
+
+2022-11-15T03:23:06+00:00 CRITICAL Uncaught Error: Call to undefined function get_content() in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php:12
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 12
+
+2022-11-15T03:23:06+00:00 CRITICAL Uncaught Error: Call to undefined function get_content() in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php:12
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 12
+
+2022-11-15T03:23:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_content() in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php:12
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 12
+

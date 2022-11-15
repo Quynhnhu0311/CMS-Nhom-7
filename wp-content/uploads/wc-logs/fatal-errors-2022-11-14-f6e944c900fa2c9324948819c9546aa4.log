@@ -12,3 +12,29 @@ Stack trace:
 
 2022-11-14T14:56:37+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 115
 
+2022-11-14T15:13:33+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php:86
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 86
+
+2022-11-14T15:14:49+00:00 CRITICAL syntax error, unexpected 'WC_Checkout' (T_STRING), expecting variable (T_VARIABLE) or '$' in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 34
+
+2022-11-14T15:15:59+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php:89
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 89
+
+2022-11-14T15:15:59+00:00 CRITICAL Uncaught Error: Call to a member function get_checkout_fields() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php:89
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\checkout.php on line 89
+

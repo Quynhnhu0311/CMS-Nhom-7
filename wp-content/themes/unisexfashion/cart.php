@@ -173,13 +173,14 @@
                         <h6>Cart total</h6>
                         <ul>
                             <li>Subtotal <span data-title="<?php esc_attr_e( 'Subtotal', 'woocommerce' ); ?>"><?php wc_cart_totals_subtotal_html(); ?></span></li>
-                            <?php foreach ( WC()->cart->get_coupons() as $code => $coupon ) : ?>
-                                <tr class="cart-discount coupon-<?php echo esc_attr( sanitize_title( $code ) ); ?>">
-                                    <th><?php wc_cart_totals_coupon_label( $coupon ); ?></th>
-                                    <td data-title="<?php echo esc_attr( wc_cart_totals_coupon_label( $coupon, false ) ); ?>"><?php wc_cart_totals_coupon_html( $coupon ); ?></td>
-                                </tr>
-                            <?php endforeach; ?>
-                            
+                            <li>
+                                <?php foreach ( WC()->cart->get_coupons() as $code => $coupon ) : ?>
+                                    <tr class="cart-discount coupon-<?php echo esc_attr( sanitize_title( $code ) ); ?>">
+                                        <th><?php wc_cart_totals_coupon_label( $coupon ); ?></th>
+                                        <td data-title="<?php echo esc_attr( wc_cart_totals_coupon_label( $coupon, false ) ); ?>"><?php wc_cart_totals_coupon_html( $coupon ); ?></td>
+                                    </tr>
+                                <?php endforeach; ?>
+                            </li>
                             <li>Total <span><?php wc_cart_totals_order_total_html(); ?></span></li>
                         </ul>
                         <a href="<?php echo esc_url( wc_get_checkout_url() ); ?>" class="primary-btn">Proceed to checkout</a>
