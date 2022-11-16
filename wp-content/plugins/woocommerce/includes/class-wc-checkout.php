@@ -514,7 +514,7 @@ class WC_Checkout {
 					'total'     => $fee->total,
 					'total_tax' => $fee->tax,
 					'taxes'     => array(
-					'total' 	=> $fee->tax_data,
+						'total' => $fee->tax_data,
 					),
 				)
 			);

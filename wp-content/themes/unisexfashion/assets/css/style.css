@@ -435,7 +435,7 @@ ol {
 	transform: scale(1);
 }
 
-.header__menu ul li:hover .dropdown {
+.header__menu ul li:hover .sub-menu {
 	top: 32px;
 	opacity: 1;
 	visibility: visible;
@@ -445,7 +445,7 @@ ol {
 	margin-right: 0;
 }
 
-.header__menu ul li .dropdown {
+.header__menu ul li .sub-menu {
 	position: absolute;
 	left: 0;
 	top: 56px;
@@ -461,12 +461,12 @@ ol {
 	transition: all, 0.3s;
 }
 
-.header__menu ul li .dropdown li {
+.header__menu ul li .sub-menu li {
 	display: block;
 	margin-right: 0;
 }
 
-.header__menu ul li .dropdown li a {
+.header__menu ul li .sub-menu li a {
 	font-size: 14px;
 	color: #ffffff;
 	font-weight: 400;
@@ -474,7 +474,7 @@ ol {
 	text-transform: capitalize;
 }
 
-.header__menu ul li .dropdown li a:after {
+.header__menu ul li .sub-menu li a:after {
 	display: none;
 }
 
@@ -3819,4 +3819,79 @@ ol {
 	.categories__text:before {
 		height: 250px;
 	}
+}
+.checkout , .woocommerce-cart-form, .cart-collaterals {
+	max-width: 1170px;
+	margin: 0 auto;
+}
+.shipping-calculator-button{
+	color:#20315f !important; 
+	font-weight: bold;
+}
+.shipping-calculator-button:hover{
+	color:#000 !important; 
+}
+#coupon_code {
+	width: 200px !important;
+}
+.woocommerce-cart-form__cart-item {
+	height: 100px;
+}
+.product-thumbnail a img {
+	width: 150px !important;
+	height: 150px !important;
+	display: block;
+}
+.shop_table {
+	background-color: #f3f2ee;
+}
+.product-name a{
+	color: #212529;
+}
+.wp-element-button {
+	background-color: #95e1c8 !important;
+	transition: 0.5s;
+}
+.wp-element-button:hover {
+	background-color: #515151 !important;
+	color: #95e1c8 !important;
+}
+.input-text  {
+	border-radius: 20px;
+	padding: 5px;
+}
+#order_comments {
+	width: 300px;
+}
+.woocommerce-form-row {
+	display: block;
+}
+.form-row {
+	display: block;
+}
+.woocommerce-form-login__submit {
+	float: none !important;
+	display: block !important;
+}
+#customer_login {
+	max-width: 1170px;
+	margin: 0 auto;
+}
+.woocommerce-MyAccount-navigation-link {
+	padding: 10px 50px;
+	list-style-type: none;
+}
+.woocommerce-MyAccount-navigation-link a {
+	color: #bc76c8;
+	font-weight: bold;
+}
+.woocommerce-MyAccount-navigation-link a:hover , .woocommerce-MyAccount-content p a:hover, .woocommerce-Address-title a:hover{
+	color: #95e1c8 !important;
+}
+.woocommerce-MyAccount-content p a {
+	color: #bc76c8 !important;
+	text-decoration:dashed;
+}
+.woocommerce-Address-title a {
+	color: #bc76c8;
 }

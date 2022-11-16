@@ -61,19 +61,16 @@
                     <div class="col-lg-6 col-md-5">
                         <div class="header__top__right">
                             <div class="header__top__links">
-                                <a href="<?php the_permalink(); ?>my-account ">Sign in</a>
+                                <a href="my-account">Sign in</a>
+                                <a href="#">FAQs</a>
                             </div>
                             <div class="header__top__hover">
-                                <?php do_action( 'woocommerce_before_account_navigation' ); ?>
-                                <span>Account <i class="arrow_carrot-down"></i></span>
+                                <span>Usd <i class="arrow_carrot-down"></i></span>
                                 <ul>
-                                    <?php foreach ( wc_get_account_menu_items() as $endpoint => $label ) : ?>
-                                    <li class="<?php echo wc_get_account_menu_item_classes( $endpoint ); ?>">
-                                        <a href="<?php echo esc_url( wc_get_account_endpoint_url( $endpoint ) ); ?>"><?php echo esc_html( $label ); ?></a>
-                                    </li>
-                                    <?php endforeach; ?>
+                                    <li>USD</li>
+                                    <li>EUR</li>
+                                    <li>USD</li>
                                 </ul>
-                                <?php do_action( 'woocommerce_after_account_navigation' ); ?>
                             </div>
                         </div>
                     </div>
@@ -89,16 +86,8 @@
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <nav class="header__menu mobile-menu">
-                        <?php 
-                            if(has_nav_menu( 'glw_primary_menu' )){
-                                wp_nav_menu( array(
-                                    'theme_location' => 'glw_primary_menu',
-                                    'container'      => false,
-                                    'fallback_cb'    => false,
-                                    'depth'          => 5,
-                                    'walker'         => new GLW_Custom_Nav_Walker()
-                                ));
-                            }
+                        <?php
+                            header_menu('header-menu'); 
                         ?>
                     </nav>
                 </div>
