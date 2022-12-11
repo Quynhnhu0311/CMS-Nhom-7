@@ -1,0 +1,56 @@
+2022-11-26T11:25:11+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on null in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php:36
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php on line 36
+
+2022-11-26T12:54:17+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\template-parts\content.php:29
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\test\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\test\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\test\wp-content\themes\unisexfashion\search.php(228): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\template-parts\content.php on line 29
+
+2022-11-26T12:54:22+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\template-parts\content.php:29
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\test\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\test\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\test\wp-content\themes\unisexfashion\search.php(228): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\template-parts\content.php on line 29
+
+2022-11-26T13:04:44+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\template-parts\content.php:29
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\test\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\test\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\test\wp-content\themes\unisexfashion\search.php(228): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\template-parts\content.php on line 29
+
+2022-11-26T13:07:38+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\template-parts\content.php:29
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\test\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\test\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\test\wp-content\themes\unisexfashion\search.php(228): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\template-parts\content.php on line 29
+

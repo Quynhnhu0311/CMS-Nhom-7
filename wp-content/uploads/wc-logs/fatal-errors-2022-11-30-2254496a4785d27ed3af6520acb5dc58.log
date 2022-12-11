@@ -1,0 +1,43 @@
+2022-11-30T10:19:47+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\template-parts\content.php:29
+Stack trace:
+#0 C:\xampp\htdocs\goup7_worpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\goup7_worpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\goup7_worpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\search.php(228): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\goup7_worpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\goup7_worpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\goup7_worpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\template-parts\content.php on line 29
+
+2022-11-30T16:22:31+00:00 CRITICAL syntax error, unexpected '&' in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 53
+
+2022-11-30T16:22:31+00:00 CRITICAL syntax error, unexpected '&' in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 53
+
+2022-11-30T16:22:33+00:00 CRITICAL syntax error, unexpected '&' in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 53
+
+2022-11-30T16:23:06+00:00 CRITICAL syntax error, unexpected '&' in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 56
+
+2022-11-30T16:28:28+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function tdc_add_custom_field_to_variations(), 0 passed in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\single-product.php on line 156 and exactly 3 expected in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php:50
+Stack trace:
+#0 C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\single-product.php(156): tdc_add_custom_field_to_variations()
+#1 C:\xampp\htdocs\goup7_worpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\goup7_worpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\goup7_worpress\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 50
+
+2022-11-30T16:31:17+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 105
+
+2022-11-30T16:31:18+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 105
+
+2022-11-30T16:31:18+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 105
+
+2022-11-30T16:31:52+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 157
+
+2022-11-30T16:31:52+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 157
+
+2022-11-30T16:31:57+00:00 CRITICAL Cannot redeclare wc_wc20_variation_price_format() (previously declared in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php:49) in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 152
+
+2022-11-30T16:31:57+00:00 CRITICAL Cannot redeclare wc_wc20_variation_price_format() (previously declared in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php:49) in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 152
+

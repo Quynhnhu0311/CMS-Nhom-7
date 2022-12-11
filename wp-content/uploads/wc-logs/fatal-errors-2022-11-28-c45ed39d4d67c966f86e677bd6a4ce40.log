@@ -1,0 +1,100 @@
+2022-11-28T14:30:24+00:00 CRITICAL Uncaught Error: Class 'GLW_Custom_Nav_Walker' not found in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\header.php:66
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\test\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\test\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\test\wp-content\themes\unisexfashion\blog.php(6): get_header()
+#4 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\header.php on line 66
+
+2022-11-28T14:31:17+00:00 CRITICAL Uncaught Error: Class 'GLW_Custom_Nav_Walker' not found in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\header.php:66
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template.php(783): require_once()
+#1 C:\xampp\htdocs\test\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\test\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\test\wp-content\themes\unisexfashion\blog.php(6): get_header()
+#4 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\header.php on line 66
+
+2022-11-28T16:44:40+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on null in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php:36
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php on line 36
+
+2022-11-28T16:46:36+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on null in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php:36
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php on line 36
+
+2022-11-28T16:49:30+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on null in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php:36
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php on line 36
+
+2022-11-28T16:49:44+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on null in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php:36
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php on line 36
+
+2022-11-28T16:51:07+00:00 CRITICAL Uncaught Error: Call to a member function get_gallery_image_ids() on null in C:\xampp\htdocs\test\wp-content\plugins\woocommerce\templates\single-product\product-thumbnails.php:27
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\test\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1559): wc_get_template('single-product/...')
+#2 C:\xampp\htdocs\test\wp-includes\class-wp-hook.php(308): woocommerce_show_product_thumbnails('')
+#3 C:\xampp\htdocs\test\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\test\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php(53): do_action('woocommerce_pro...')
+#6 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\test\index.php(17): in C:\xampp\htdocs\test\wp-content\plugins\woocommerce\templates\single-product\product-thumbnails.php on line 27
+
+2022-11-28T16:54:48+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on null in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php:36
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php on line 36
+
+2022-11-28T16:58:49+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on null in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php:36
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php on line 36
+
+2022-11-28T17:30:18+00:00 CRITICAL Uncaught Error: Call to undefined function the_auth() in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php:14
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php on line 14
+
+2022-11-28T17:30:27+00:00 CRITICAL Uncaught Error: Call to undefined function the_auther() in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php:14
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php on line 14
+

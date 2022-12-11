@@ -1,0 +1,26 @@
+2022-11-29T05:43:41+00:00 CRITICAL Uncaught Error: Call to undefined function the_description() in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php:19
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php on line 19
+
+2022-11-29T06:22:34+00:00 CRITICAL syntax error, unexpected ':', expecting ')' in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php on line 30
+
+2022-11-29T06:23:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_comment_number() in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php:29
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php on line 29
+
+2022-11-29T06:37:12+00:00 CRITICAL Uncaught Error: Call to undefined function comments_form() in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php:32
+Stack trace:
+#0 C:\xampp\htdocs\test\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\test\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\test\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\test\wp-content\themes\unisexfashion\single.php on line 32
+

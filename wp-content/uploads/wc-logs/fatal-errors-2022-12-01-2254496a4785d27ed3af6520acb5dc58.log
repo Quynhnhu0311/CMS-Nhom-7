@@ -1,0 +1,114 @@
+2022-12-01T05:00:26+00:00 CRITICAL syntax error, unexpected '&' in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 54
+
+2022-12-01T05:00:26+00:00 CRITICAL syntax error, unexpected '&' in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 54
+
+2022-12-01T05:03:27+00:00 CRITICAL Uncaught Error: Call to undefined function get_formatted_name() in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\single-product.php:156
+Stack trace:
+#0 C:\xampp\htdocs\goup7_worpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\goup7_worpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\goup7_worpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\single-product.php on line 156
+
+2022-12-01T05:04:06+00:00 CRITICAL Uncaught Error: Call to undefined function get_formatted_name() in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\single-product.php:156
+Stack trace:
+#0 C:\xampp\htdocs\goup7_worpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\goup7_worpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\goup7_worpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\single-product.php on line 156
+
+2022-12-01T05:04:43+00:00 CRITICAL Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\single-product.php:157
+Stack trace:
+#0 C:\xampp\htdocs\goup7_worpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\goup7_worpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\goup7_worpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\single-product.php on line 157
+
+2022-12-01T08:54:18+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\template-parts\content.php:29
+Stack trace:
+#0 C:\xampp\htdocs\goup7_worpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\goup7_worpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\goup7_worpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\search.php(228): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\goup7_worpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\goup7_worpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\goup7_worpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\template-parts\content.php on line 29
+
+2022-12-01T13:10:50+00:00 CRITICAL Uncaught Error: Call to a member function get_rating_count() on null in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\comments.php:37
+Stack trace:
+#0 C:\xampp\htdocs\goup7_worpress\wp-includes\comment-template.php(1550): require()
+#1 C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\single-product.php(137): comments_template()
+#2 C:\xampp\htdocs\goup7_worpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\goup7_worpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\goup7_worpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\comments.php on line 37
+
+2022-12-01T13:11:08+00:00 CRITICAL Uncaught Error: Call to a member function get_rating_count() on null in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\comments.php:37
+Stack trace:
+#0 C:\xampp\htdocs\goup7_worpress\wp-includes\comment-template.php(1550): require()
+#1 C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\single-product.php(137): comments_template()
+#2 C:\xampp\htdocs\goup7_worpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\goup7_worpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\goup7_worpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\comments.php on line 37
+
+2022-12-01T13:11:29+00:00 CRITICAL Uncaught Error: Call to a member function get_rating_count() on null in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\comments.php:37
+Stack trace:
+#0 C:\xampp\htdocs\goup7_worpress\wp-includes\comment-template.php(1550): require()
+#1 C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\single-product.php(137): comments_template()
+#2 C:\xampp\htdocs\goup7_worpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\goup7_worpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\goup7_worpress\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\comments.php on line 37
+
+2022-12-01T13:15:57+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\templates\myaccount\orders.php:83
+Stack trace:
+#0 C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(3213): wc_get_template('myaccount/order...', Array)
+#2 C:\xampp\htdocs\goup7_worpress\wp-includes\class-wp-hook.php(308): woocommerce_account_orders(1)
+#3 C:\xampp\htdocs\goup7_worpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\goup7_worpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(3161): do_action('woocommerce_acc...', '')
+#6 C:\xampp\htdocs\goup7_worpress\wp-includes\class-wp-hook.php(308): woocommerce_account_content('')
+#7 C:\xampp\htdocs\goup7_worpress\wp-includes\clas in C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\templates\myaccount\orders.php on line 83
+
+2022-12-01T13:16:31+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_sku() in C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\templates\myaccount\orders.php:83
+Stack trace:
+#0 C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(3213): wc_get_template('myaccount/order...', Array)
+#2 C:\xampp\htdocs\goup7_worpress\wp-includes\class-wp-hook.php(308): woocommerce_account_orders(1)
+#3 C:\xampp\htdocs\goup7_worpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\goup7_worpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(3161): do_action('woocommerce_acc...', '')
+#6 C:\xampp\htdocs\goup7_worpress\wp-includes\class-wp-hook.php(308): woocommerce_account_content('')
+#7 C:\xampp\h in C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\templates\myaccount\orders.php on line 83
+
+2022-12-01T13:17:14+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_sku() in C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\templates\myaccount\orders.php:83
+Stack trace:
+#0 C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(3213): wc_get_template('myaccount/order...', Array)
+#2 C:\xampp\htdocs\goup7_worpress\wp-includes\class-wp-hook.php(308): woocommerce_account_orders(1)
+#3 C:\xampp\htdocs\goup7_worpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\goup7_worpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(3161): do_action('woocommerce_acc...', '')
+#6 C:\xampp\htdocs\goup7_worpress\wp-includes\class-wp-hook.php(308): woocommerce_account_content('')
+#7 C:\xampp\h in C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\templates\myaccount\orders.php on line 83
+
+2022-12-01T13:40:18+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_sku() in C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\templates\myaccount\orders.php:83
+Stack trace:
+#0 C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(3213): wc_get_template('myaccount/order...', Array)
+#2 C:\xampp\htdocs\goup7_worpress\wp-includes\class-wp-hook.php(308): woocommerce_account_orders(1)
+#3 C:\xampp\htdocs\goup7_worpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\goup7_worpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(3161): do_action('woocommerce_acc...', '')
+#6 C:\xampp\htdocs\goup7_worpress\wp-includes\class-wp-hook.php(308): woocommerce_account_content('')
+#7 C:\xampp\h in C:\xampp\htdocs\goup7_worpress\wp-content\plugins\woocommerce\templates\myaccount\orders.php on line 83
+

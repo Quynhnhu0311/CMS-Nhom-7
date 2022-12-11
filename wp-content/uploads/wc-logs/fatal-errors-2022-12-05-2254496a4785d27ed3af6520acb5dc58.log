@@ -1,0 +1,38 @@
+2022-12-05T14:19:12+00:00 CRITICAL syntax error, unexpected '=' in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 63
+
+2022-12-05T14:19:12+00:00 CRITICAL syntax error, unexpected '=' in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 63
+
+2022-12-05T14:22:23+00:00 CRITICAL syntax error, unexpected end of file, expecting endswitch (T_ENDSWITCH) or case (T_CASE) or default (T_DEFAULT) in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\comments.php on line 91
+
+2022-12-05T14:22:23+00:00 CRITICAL syntax error, unexpected end of file, expecting endswitch (T_ENDSWITCH) or case (T_CASE) or default (T_DEFAULT) in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\comments.php on line 91
+
+2022-12-05T14:36:12+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING) in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 103
+
+2022-12-05T14:36:12+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING) in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 103
+
+2022-12-05T14:36:13+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING) in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 103
+
+2022-12-05T14:36:48+00:00 CRITICAL Cannot redeclare save_comment_meta_data() (previously declared in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php:104) in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 120
+
+2022-12-05T14:36:48+00:00 CRITICAL Cannot redeclare save_comment_meta_data() (previously declared in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php:104) in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 120
+
+2022-12-05T15:37:02+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 115
+
+2022-12-05T15:37:03+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 115
+
+2022-12-05T15:37:03+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 115
+
+2022-12-05T15:39:02+00:00 CRITICAL syntax error, unexpected '<' in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 107
+
+2022-12-05T15:41:03+00:00 CRITICAL syntax error, unexpected '<' in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 107
+
+2022-12-05T15:41:37+00:00 CRITICAL syntax error, unexpected '<' in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 105
+
+2022-12-05T15:41:38+00:00 CRITICAL syntax error, unexpected '<' in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 105
+
+2022-12-05T15:42:44+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 107
+
+2022-12-05T15:42:44+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 107
+
+2022-12-05T15:43:04+00:00 CRITICAL syntax error, unexpected '}', expecting ';' or ',' in C:\xampp\htdocs\goup7_worpress\wp-content\themes\unisexfashion\functions.php on line 107
+

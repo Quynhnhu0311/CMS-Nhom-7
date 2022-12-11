@@ -1,0 +1,100 @@
+2022-11-26T02:11:11+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\single.php:36
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\single.php on line 36
+
+2022-11-26T02:11:17+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\single.php:36
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\single.php on line 36
+
+2022-11-26T02:11:26+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\single.php:36
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\single.php on line 36
+
+2022-11-26T02:11:40+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\single.php:36
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\single.php on line 36
+
+2022-11-26T02:11:48+00:00 CRITICAL Uncaught Error: Call to a member function get_image_id() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\single.php:36
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\single.php on line 36
+
+2022-11-26T10:26:57+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content.php:29
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\search.php(228): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content.php on line 29
+
+2022-11-26T10:27:12+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content.php:29
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\search.php(228): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content.php on line 29
+
+2022-11-26T10:27:18+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content.php:29
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\search.php(228): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content.php on line 29
+
+2022-11-26T10:27:31+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content.php:29
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\search.php(228): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content.php on line 29
+
+2022-11-26T10:39:58+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content.php:29
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\search.php(228): get_template_part('template-parts/...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\unisexfashion\template-parts\content.php on line 29
+
